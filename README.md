@@ -7,3 +7,6 @@
 --Report on the project's stages of operation:
 
 [AlgorithmOf_BFS_and_DFS.pdf](https://github.com/YusufAtti/AlgorithmOf_BFS_and_DFS/files/14229031/AlgorithmOf_BFS_and_DFS.pdf)
+
+
+                                                                  ***** UPDATE WILL BE MADE *****
