@@ -14,7 +14,7 @@ namespace Prolab2_1
         private int boyut;
         private List<List<Button>> buttons = new List<List<Button>>();
         private int[,] lastIzgara;
-        private Image wall = Image.FromFile("C://Users//berat//OneDrive//Masaüstü//2.sınıf 2.dönem//P1//Prolab2_1//210202109last//Prolab2_1//Prolab2_1//img//111.jpg");
+        private Image wall = Image.FromFile("C://Users//yusuf//OneDrive//Masaüstü//2.sınıf 2.dönem//P1//Prolab2_1//9last//Prolab2_1//Prolab2_1//img//111.jpg");
 
         public abstract List<List<Button>> generateIzgara();
 
